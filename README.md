@@ -1,2 +1,2 @@
 # LinGato
-Elgato Stream Deck for Linux
+[See this repository](https://git.coffeenet.nl/Coffee2Code/LinGato)
